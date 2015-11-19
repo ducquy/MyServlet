@@ -1,4 +1,4 @@
-package quynd.learning;
+package quynd.learning.servlet;
 
 import java.io.IOException;
 
